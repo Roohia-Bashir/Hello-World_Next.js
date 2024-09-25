@@ -1,1 +1,1 @@
-# Practice_Next.js
+# Next.js
